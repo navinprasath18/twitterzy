@@ -1,0 +1,17 @@
+
+*.class
+.gradle
+build
+*/bin/
+*.log
+**/.DS_Store
+.settings
+.project
+.classpath
+/bin/
+bin
+.vscode
+*.iml
+.idea
+/portal-ui-app
+/node_modules
