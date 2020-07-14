@@ -1,3 +1,8 @@
+/**
+ * twitterzy-navin-2018
+ * 
+ * https://github.com/navinprasath18/twitterzy
+ */
 package com.twitterzy.backend.constants;
 
 import org.springframework.beans.factory.annotation.Autowired;

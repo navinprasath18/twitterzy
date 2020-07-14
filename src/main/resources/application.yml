@@ -1,9 +1,9 @@
 server: 
-   port: 5080
+   port: 8888
    
 logging:
   level:
-    com.twitterzy: DEBUG
+    com.twitterzy: INFO
     org.springframework: ERROR
     org.springframework.security: DEBUG
     org.springframework.web: DEBUG
