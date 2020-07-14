@@ -11,7 +11,6 @@ import java.util.Set;
 import org.apache.http.client.methods.HttpGet;
 import org.springframework.stereotype.Service;
 
-import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.google.common.collect.Sets;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
