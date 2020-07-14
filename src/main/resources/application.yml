@@ -1,0 +1,9 @@
+server: 
+   port: 5080
+   
+logging:
+  level:
+    com.twitterzy: DEBUG
+    org.springframework: ERROR
+    org.springframework.security: DEBUG
+    org.springframework.web: DEBUG
