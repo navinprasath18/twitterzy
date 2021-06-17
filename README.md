@@ -1,5 +1,5 @@
 # twitterzy
-twitterzy is for Twitter made easy
+Track your twitter follwers , unfollowers , people who dont follow you back and much more insights!!
 
 
-http://localhost:8888/follower/countNonFollowers?username=<username>
+http://xxxx/follower/countNonFollowers?username=<username>
